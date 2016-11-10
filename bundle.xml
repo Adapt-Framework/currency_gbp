@@ -2,9 +2,11 @@
 <adapt_framework>
     <bundle>
         <name>currency_gbp</name>
+        <type>currency</type>
         <label>Currency GBP</label>
         <description>Great British Pounds.</description>
         <namespace>\adapt\currency\gbp</namespace>
+        <version>1.0.0</version>
         <copyright>2016 Matt Bruton</copyright>
         <license>MIT</license>
         <website>http://www.adaptframework.com/documentaion/extentions/currency_gbp</website>
