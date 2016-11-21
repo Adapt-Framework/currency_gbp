@@ -37,6 +37,8 @@
                         <label>Great British Pounds</label>
                         <iso_code>GBP</iso_code>
                         <decimal_places>2</decimal_places>
+                        <decimal_separator>.</decimal_separator>
+                        <thousands_separator>,</thousands_separator>
                         <symbol_whole>£</symbol_whole>
                         <symbol_partial>p</symbol_partial>
                         <symbol_whole_html>&amp;pound;</symbol_whole_html>
