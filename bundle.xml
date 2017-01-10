@@ -6,6 +6,8 @@
         <label>Currency GBP</label>
         <description>Great British Pounds.</description>
         <namespace>\adapt\currency\gbp</namespace>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <version>1.0.0</version>
         <copyright>2016 Matt Bruton</copyright>
         <license>MIT</license>
