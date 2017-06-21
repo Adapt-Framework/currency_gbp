@@ -8,7 +8,7 @@
         <namespace>\adapt\currency\gbp</namespace>
         <version_status>release</version_status>
         <availability>public</availability>
-        <version>1.0.0</version>
+        <version>0.9.0</version>
         <copyright>2016 Matt Bruton</copyright>
         <license>MIT</license>
         <website>http://www.adaptframework.com/documentaion/extentions/currency_gbp</website>
@@ -19,7 +19,7 @@
             </bundle>
             <bundle>
                 <name>currency</name>
-                <version>1.0</version>
+                <version>0.9</version>
             </bundle>
         </depends_on>
         <settings>
